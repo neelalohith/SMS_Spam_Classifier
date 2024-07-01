@@ -17,3 +17,7 @@ Results:
 <br />
 Note: The above latter image was run locally, we can run in docker as well.
 
+References:
+1. https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+2. https://medium.com/@sejalw.2004/multinomial-naive-bayes-4b03f2742438
+3. https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
