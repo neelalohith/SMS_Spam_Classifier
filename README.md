@@ -6,5 +6,5 @@ A Model is developed using Multinomial Naive Bayes with an overall accracy of 96
 
 Steps to run:
 1. Docker build -t spam-detector .
-2. Docker run python spam_classifier.py
-3. Docker run python predict.py "Enter text".
+2. Docker run --rm spam-detector
+3. Docker run --rm spam-detector python predict.py "Enter text".
